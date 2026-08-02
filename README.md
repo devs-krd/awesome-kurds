@@ -117,6 +117,7 @@ add other awesome Kurds, including you!
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
 - [Muhammed Amin](https://github.com/H7mosh): Flutter, .NET, HTML, CSS
 - [Muhammed Khalil](https://github.com/hamakh11): Full-stack, PHP, Laravel, SQL, Vue, Flutter
+- [Muhammed Esmail](https://github.com/Hamoi1)
 - [Muzaffer Dler](https://github.com/jellywiz): QA, Robot Framework, Python, E2E Testing, User Experience
 - [Mazyar Kawa](https://github.com/mazyar-kawa): React, NextJs, Laravel, tailwind css, Flutter
 - [Nashwan Abdullah](https://github.com/codenashwan)
