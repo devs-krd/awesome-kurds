@@ -163,6 +163,7 @@ add other awesome Kurds, including you!
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
 - [Yaqub Naqib](https://github.com/Yaqub-naqeb): JavaScript, React, Next.js Java, PHP
 - [Yousif Jasm](https://github.com/joseph625)
+- [Yusf Idres](https://github.com/SECT19N): TypeScript, Node.js, NestJS, Next.js, React, React Native, Jetpack Compose, Python, ASP.NET, C#
 - [Yusif Qasim](https://github.com/YusifQasim): JavaScript, React, Next.js
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217)
 - [Zhir Taha](https://github.com/zhirtaha)
