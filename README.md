@@ -92,6 +92,7 @@ add other awesome Kurds, including you!
 - [Hevar Tofiq](https://github.com/rageofkurd): React, Next.js Node.js Javascript, Flutter
 - [Hewr Srood](https://twitter.com/hewr_srood)
 - [Hezha Amen](https://twitter.com/hezhamen): React, Node.js Dart, JavaScript
+- [Hoshang Ismail](https://github.com/hoshangdev): React, Expo, TanStack Start, Hono, Nest, Next.js, TypeScript
 - [Hozan Saeed](https://github.com/hozan7): Node.js React, API
 - [Ismail Ahmed](https://github.com/ismail-ahm3d): Android, Kotlin, Java
 - [Karwan Rasul](https://github.com/karwan01): Typescript, Vue, React, Dart and Flutter, Docker, Nest js, PostgreSQL, Redis
