@@ -54,6 +54,7 @@ add other awesome Kurds, including you!
 - [Aran Fatih](https://github.com/aranfatih)
 - [Aren Talb](https://arentalb.com): JavaScript, Typescript, React, NextJs, Angular, Node.js, ExpressJs, NestJs, MongoDB, PostgreSQL
 - [Areyan](https://github.com/KUMachine)
+- [Arghavan Monajemi](https://github.com/ArghavanMonajemi): Backend, Python, Django, FastAPI, Celery, Redis, PostgreSQL
 - [Ari Karim](https://twitter.com/Ari_Karim_)
 - [Arin Faraj](https://twitter.com/ArinFaraj)
 - [Aro Dana](https://github.com/arokurd)
