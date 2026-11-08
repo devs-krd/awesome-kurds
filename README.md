@@ -78,6 +78,7 @@ add other awesome Kurds, including you!
 - [Didar mahir] (https://github.com/didarrkucherr): Html, Css, JavaScript
 - [Dashty Frya](https://twitter.com/DashtyFrya): React, Next.js Vue, JavaScript, Laravel, Figma
 - [Deni Kader](https://github.com/denikader)
+- [Diyar Mohammed](https://github.com/Diyar1877): PHP, Symfony, Doctrine ORM, Angular, TypeScript, JavaScript, MySQL, SQL, REST APIs, Docker, Docker Compose, Linux, Git, GitHub Actions, CI/CD, Composer, Object-Oriented Programming (OOP), Dependency Injection, HTML5, CSS3, SCSS, Angular Material, RxJS, Database Design, Database Migrations, Postman, OpenAPI/Swagger
 - [Dolan](https://twitter.com/dolanskurd): Python, Node.js Back-end, JavaScript, TypeScript
 - [Dyako Sharifi](https://github.com/syronz)
 - [Dyary Raoof](https://github.com/DyaryRaoof): Full-stack, JavaScript, React, Ruby, Rails, Node.js Flutter
