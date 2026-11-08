@@ -74,6 +74,7 @@ add other awesome Kurds, including you!
 - [Chra Othman](https://github.com/chra-O)
 - [Daban Sadiq](https://twitter.com/DabanSadiq)
 - [Darvan Shvan](https://twitter.com/DarvanShvan)
+- [Didar mahir] (https://github.com/didarrkucherr): Html, Css, JavaScript
 - [Dashty Frya](https://twitter.com/DashtyFrya): React, Next.js Vue, JavaScript, Laravel, Figma
 - [Deni Kader](https://github.com/denikader)
 - [Dolan](https://twitter.com/dolanskurd): Python, Node.js Back-end, JavaScript, TypeScript
