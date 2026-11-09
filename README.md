@@ -22,8 +22,9 @@ add other awesome Kurds, including you!
 
 ## Software Development
 - [Dilshad Aziz] (https://dilshad.net): JavaScript, TypeScript, ReactJs, NextJs, Expo, pyhthon.
-- [Suhayb Mohammed] (https://github.com/suhaybEromi): JavaScript, ReactJs, Node-Js, Expess-Js, Mongodb, Data Automation.
+- [Suhayb Mohammed] (https://suhayb.netlify.app/): JavaScript, ReactJs, Node-Js, Expess-Js, Mongodb, Data Automation.
 - [Abdulbari Qaisar](https://twitter.com/B4ryy): JavaScript, React, Next.js
+- [Abdulbari Qaisar](https://github.com/Abdulbariii): JavaScript, React, Next.js
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node.js API, JavaScript, React, Vue
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
@@ -55,6 +56,7 @@ add other awesome Kurds, including you!
 - [Aran Fatih](https://github.com/aranfatih)
 - [Aren Talb](https://arentalb.com): JavaScript, Typescript, React, NextJs, Angular, Node.js, ExpressJs, NestJs, MongoDB, PostgreSQL
 - [Areyan](https://github.com/KUMachine)
+- [Arghavan Monajemi](https://github.com/ArghavanMonajemi): Backend, Python, Django, FastAPI, Celery, Redis, PostgreSQL
 - [Ari Karim](https://twitter.com/Ari_Karim_)
 - [Arin Faraj](https://twitter.com/ArinFaraj)
 - [Aro Dana](https://github.com/arokurd)
@@ -75,8 +77,10 @@ add other awesome Kurds, including you!
 - [Chra Othman](https://github.com/chra-O)
 - [Daban Sadiq](https://twitter.com/DabanSadiq)
 - [Darvan Shvan](https://twitter.com/DarvanShvan)
+- [Didar mahir] (https://github.com/didarrkucherr): Html, Css, JavaScript
 - [Dashty Frya](https://twitter.com/DashtyFrya): React, Next.js Vue, JavaScript, Laravel, Figma
 - [Deni Kader](https://github.com/denikader)
+- [Diyar Mohammed](https://github.com/Diyar1877): PHP, Symfony, Doctrine ORM, Angular, TypeScript, JavaScript, MySQL, SQL, REST APIs, Docker, Docker Compose, Linux, Git, GitHub Actions, CI/CD, Composer, Object-Oriented Programming (OOP), Dependency Injection, HTML5, CSS3, SCSS, Angular Material, RxJS, Database Design, Database Migrations, Postman, OpenAPI/Swagger
 - [Dolan](https://twitter.com/dolanskurd): Python, Node.js Back-end, JavaScript, TypeScript
 - [Dyako Sharifi](https://github.com/syronz)
 - [Dyary Raoof](https://github.com/DyaryRaoof): Full-stack, JavaScript, React, Ruby, Rails, Node.js Flutter
@@ -93,6 +97,7 @@ add other awesome Kurds, including you!
 - [Hevar Tofiq](https://github.com/rageofkurd): React, Next.js Node.js Javascript, Flutter
 - [Hewr Srood](https://twitter.com/hewr_srood)
 - [Hezha Amen](https://twitter.com/hezhamen): React, Node.js Dart, JavaScript
+- [Hoshang Ismail](https://github.com/hoshangdev): React, Expo, TanStack Start, Hono, Nest, Next.js, TypeScript
 - [Hozan Saeed](https://github.com/hozan7): Node.js React, API
 - [Ismail Ahmed](https://github.com/ismail-ahm3d): Android, Kotlin, Java
 - [Karwan Rasul](https://github.com/karwan01): Typescript, Vue, React, Dart and Flutter, Docker, Nest js, PostgreSQL, Redis
@@ -118,6 +123,7 @@ add other awesome Kurds, including you!
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
 - [Muhammed Amin](https://github.com/H7mosh): Flutter, .NET, HTML, CSS
 - [Muhammed Khalil](https://github.com/hamakh11): Full-stack, PHP, Laravel, SQL, Vue, Flutter
+- [Muhammed Esmail](https://github.com/Hamoi1)
 - [Muzaffer Dler](https://github.com/jellywiz): QA, Robot Framework, Python, E2E Testing, User Experience
 - [Mazyar Kawa](https://github.com/mazyar-kawa): React, NextJs, Laravel, tailwind css, Flutter
 - [Nashwan Abdullah](https://github.com/codenashwan)
@@ -163,6 +169,7 @@ add other awesome Kurds, including you!
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
 - [Yaqub Naqib](https://github.com/Yaqub-naqeb): JavaScript, React, Next.js Java, PHP
 - [Yousif Jasm](https://github.com/joseph625)
+- [Yusf Idres](https://github.com/SECT19N): TypeScript, Node.js, NestJS, Next.js, React, React Native, Jetpack Compose, Python, ASP.NET, C#
 - [Yusif Qasim](https://github.com/YusifQasim): JavaScript, React, Next.js
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217)
 - [Zhir Taha](https://github.com/zhirtaha)
@@ -176,11 +183,8 @@ add other awesome Kurds, including you!
 - [Akar Mohammed](https://github.com/AkarM13): Adobe Xd, Figma
 - [Arkan A. Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
-<<<<<<< Updated upstream
 - [Bushra Fateh](https://www.behance.net/bushrafateh): Degital Product Designer, UX/UI Speacialist, Figma, Graphic designer, Adobe
-=======
 - - [Bushra Fateh](https://www.behance.net/bushrafateh) : Digital Product Designer, UX/UI Specialist, Figma, Graphic Designer, Adobe
->>>>>>> Stashed changes
 - [Chenar Ismael ](https://github.com/TheChenar)
 - [Hema Omer](https://github.com/h3ma209)
 - [Hemn Ahmedi Kanigulzar](https://github.com/kanigulzar): Adobe Xd, Figma
