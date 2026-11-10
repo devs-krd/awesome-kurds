@@ -22,6 +22,8 @@ add other awesome Kurds, including you!
 
 ## Software Development
 - [Dilshad Aziz] (https://dilshad.net): JavaScript, TypeScript, ReactJs, NextJs, Expo, pyhthon.
+- [Suhayb Mohammed] (https://suhayb.netlify.app/): JavaScript, ReactJs, Node-Js, Expess-Js, Mongodb, Data Automation.
+- [Abdulbari Qaisar](https://twitter.com/B4ryy): JavaScript, React, Next.js
 - [Abdulbari Qaisar](https://github.com/Abdulbariii): JavaScript, React, Next.js
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node.js API, JavaScript, React, Vue
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
@@ -181,11 +183,8 @@ add other awesome Kurds, including you!
 - [Akar Mohammed](https://github.com/AkarM13): Adobe Xd, Figma
 - [Arkan A. Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
-<<<<<<< Updated upstream
 - [Bushra Fateh](https://www.behance.net/bushrafateh): Degital Product Designer, UX/UI Speacialist, Figma, Graphic designer, Adobe
-=======
 - - [Bushra Fateh](https://www.behance.net/bushrafateh) : Digital Product Designer, UX/UI Specialist, Figma, Graphic Designer, Adobe
->>>>>>> Stashed changes
 - [Chenar Ismael ](https://github.com/TheChenar)
 - [Hema Omer](https://github.com/h3ma209)
 - [Hemn Ahmedi Kanigulzar](https://github.com/kanigulzar): Adobe Xd, Figma
