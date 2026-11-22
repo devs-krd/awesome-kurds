@@ -23,7 +23,6 @@ add other awesome Kurds, including you!
 ## Software Development
 - [Dilshad Aziz] (https://dilshad.net): JavaScript, TypeScript, ReactJs, NextJs, Expo, pyhthon.
 - [Suhayb Mohammed] (https://suhayb.netlify.app/): JavaScript, ReactJs, Node-Js, Expess-Js, Mongodb, Data Automation.
-- [Abdulbari Qaisar](https://twitter.com/B4ryy): JavaScript, React, Next.js
 - [Abdulbari Qaisar](https://github.com/Abdulbariii): JavaScript, React, Next.js
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node.js API, JavaScript, React, Vue
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
